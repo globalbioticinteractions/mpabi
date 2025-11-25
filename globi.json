@@ -1,5 +1,7 @@
 { 
   "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
-  "citation": "Jorrit H. Poelen. 2014. Species associations manually extracted from literature.",
+  "url": "https://lsa-ipt1-p.lsait.lsa.umich.edu/archive.do?r=ummz_biorepository",
+  "format": "dwca",
+  "citation": "UMMZ Biorepository, LSA IT A (2025). University of Michigan Museum of Zoology, Pathogen Biorepository Initiative.",
   "deprecated": false
 }
